@@ -6,18 +6,17 @@ export const Container = styled.div`
     align-items: center;
     justify-content: center;
 `
-
 export const ButtonItem = styled.button`
     display: inline-block;
-    margin: 10px;
+    /* margin: 10px; */
     text-align: center;
     transition: 0.5s;
     font-size: 1.01em;
     text-align: center;
     border: none;
     padding: 10px 20px;
-    width: 10em;
-    height: 42px;
+    width: 190px;
+    height: 45px;
     color: #FFF;
     border-radius:15px;
     font-family: 'Public Sans';
@@ -30,8 +29,6 @@ export const ButtonItem = styled.button`
         opacity: 65%;
     }
 
-
-    
 `
 
 
